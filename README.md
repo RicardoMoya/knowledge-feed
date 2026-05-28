@@ -36,109 +36,27 @@ Además, es posible pasar una o varias URLs de cualquier fuente (Medium, LinkedI
 ├── history.md          → Histórico de todos los artículos resumidos (título, URL, fecha)
 ├── topics.md           → Lista de categorías/temáticas activas
 │
-└── summarize-post/     → Resúmenes organizados por temática
-    ├── {categoria-1}/
-    │   └── YYYYMMDD_nombre-del-articulo.md
-    ├── {categoria-2}/
-    │   └── ...
-    └── {categoria-N}/
-```
-
-### Ficheros clave
-
-| Fichero | Descripción |
-|--------|-------------|
-| `history.md` | Registro de todos los artículos resumidos: título, URL y fecha. Evita duplicados en sesiones futuras. |
-| `topics.md` | Lista de categorías activas. Modifica este fichero para añadir, eliminar o renombrar temáticas. |
-| `summarize-post/` | Carpeta raíz con una subcarpeta por cada categoría definida en `topics.md`. |
-
----
-
-## Formato de los resúmenes
-
-Cada resumen es un fichero Markdown con la siguiente estructura:
-
-```markdown
-# Título del artículo en su idioma original
-### 🇪🇸 Título traducido al español
-
-**Autor:** Nombre
-**Publicación:** Nombre de la publicación
-**URL:** enlace al artículo original
-**Fecha:** YYYY-MM-DD
-**Categoría:** nombre-categoria
-**Fuente:** Medium / LinkedIn / Blog / ...
-**Tags:** `tag-1` `tag-2` `tag-3` `tag-4` `tag-5`
-
----
-
-## Contexto y tesis principal
-...
-
-## Puntos clave
-### 1. Primer punto
-...
-### 2. Segundo punto
-...
-
-## Conceptos adicionales destacados
-...
-
-## Conclusión
-...
-
-## Tags
-`tag-1` `tag-2` `tag-3` `tag-4` `tag-5`
+└── {categoria}/
+    └── YYYYMMDD_nombre-del-articulo.md
 ```
 
 ---
 
-## Nomenclatura de ficheros
+## Categorías activas
 
-Los ficheros siguen el patrón `YYYYMMDD_slug-del-titulo.md`, por ejemplo:
-
-```
-20260527_the-4-lines-every-claude-md-needs.md
-```
-
-Esto permite ordenarlos cronológicamente y localizar resúmenes por fecha de forma natural.
-
----
-
-## Histórico (`history.md`)
-
-El fichero `history.md` registra todos los artículos resumidos:
-
-| Título | URL | Fecha |
-|--------|-----|-------|
-| Ejemplo de artículo | [https://medium.com/...](https://medium.com/@richardmoya/top-papers-that-made-the-llm-era-possible-jarroba-com-7727170de13f) | 2026-05-27 |
-
-La skill consulta este fichero para evitar resumir el mismo artículo dos veces en un período de 15 días. Las URLs añadidas manualmente nunca se vuelven a resumir automáticamente salvo petición explícita.
-
----
-
-## Gestión de categorías
-
-Las categorías se definen en `topics.md`. Si se modifican (añadir, eliminar o renombrar), la skill ofrece la opción de **reposicionar automáticamente** los artículos existentes, actualizando tanto la ubicación de los ficheros como los metadatos internos de cada resumen.
-
----
-
-## Convenciones de commits
-
-| Tipo | Mensaje |
-|------|---------|
-| Sesión diaria | `YYYYMMDD: subidos X artículos resumidos` |
-| URL externa (uno) | `YYYYMMDD: añadido artículo externo – Título` |
-| URL externa (varios) | `YYYYMMDD: añadidos X artículos externos` |
-| Reorganización de categorías | `YYYYMMDD: reorganización de categorías – X artículos reposicionados` |
-| Actualización de categorías | `YYYYMMDD: categorías actualizadas en topics.md` |
-| Inicialización | `init: estructura del repositorio knowledge-feed creada` |
+- agentic-ai
+- ai-dev-tools
+- spec-driven-design
+- llms
+- computer-vision
+- machine-learning
+- ai-computing
+- green-ai
+- data-spots
+- miscellaneous
 
 ---
 
 ## Tecnología
 
-Este repositorio se genera y mantiene con la skill **knowledge-feed**, construida sobre [Claude AI](https://claude.ai) de Anthropic, usando:
-
-- **Claude in Chrome** — para navegar y leer el contenido de los artículos de cualquier fuente
-- **GitHub MCP** — para crear ficheros, hacer commits y gestionar el repositorio
+Este repositorio se genera y mantiene con la skill **knowledge-feed**, construida sobre [Claude AI](https://claude.ai) de Anthropic.
