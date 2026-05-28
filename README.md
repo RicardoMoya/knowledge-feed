@@ -35,7 +35,6 @@ Además, es posible pasar una o varias URLs de cualquier fuente (Medium, LinkedI
 ├── README.md           → Este fichero
 ├── history.md          → Histórico de todos los artículos resumidos (título, URL, fecha)
 ├── topics.md           → Lista de categorías/temáticas activas
-├── .gitignore          → Archivos ignorados por git
 │
 └── categorias/
     └── {categoria}/
