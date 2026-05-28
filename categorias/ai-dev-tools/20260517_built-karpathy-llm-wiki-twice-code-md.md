@@ -30,7 +30,11 @@ El autor construyó primero un pipeline Python de **8 etapas**: Scan → Plan �
 - Todo cabe en un Docker image y corre en un CronJob de Kubernetes
 
 ### 3. El problema de Markdown que la mayoría ignora
+<<<<<<< HEAD
 El artículo identifica un fallo silencioso en casi todas las wikis generadas por LLMs: el Markdown producido es *plausible* pero estructuralmente defectuoso. Dos H1 en el mismo fichero, tablas que se parsean mal, YAML en frontmatter que rompe cuando hay dos puntos en un valor sin entrecomillar, enlaces que parecen correctos pero resuelven a ningún sitio. Para resolverlo, el autor desarrolló **`markdown-hero`**: una librería de procesamiento Markdown con type checking, section awareness y un chunker cuya ventana de overlap se mantiene dentro del mismo heading.
+=======
+El artículo identifica un fallo silencioso en casi todas las wikis generadas por LLMs: el Markdown producido es *plausible* pero estructuralmente defectuoso. Dos H1 en el mismo fichero, tablas que se parsean mal, YAML en frontmatter que rompe cuando hay dos puntos en un valor sin entrecomillar, enlaces que parecen correctos pero resuelven a ningún sitio. En un pipeline donde cada página alimenta a las siguientes (topics, grupos, índice, chat retriever), ese ruido estructural corrompe todas las etapas downstream. Para resolverlo, el autor desarrolló **`markdown-hero`**: una librería de procesamiento Markdown con type checking, section awareness y un chunker cuya ventana de overlap se mantiene dentro del mismo heading.
+>>>>>>> 080373f (.)
 
 ### 4. La implementación agentica: `AGENTS.md`
 Semanas después, el autor destila los mismos 8 stages en un único fichero de instrucciones que funciona con cualquier agente que lea ficheros de instrucciones en la raíz del proyecto: Claude Code, Codex, Cursor, VS Code Agent Mode. Desaparecen Pydantic, Docker, el repair agent de LangGraph y los UUIDs deterministas. Se mantienen: los 8 stages en el mismo orden, el loop Writer→Evaluator→Editor, las convenciones de wikilinks, las reglas de lint y un bloque CONFIG que el agente rellena en una primera ejecución de configuración.
