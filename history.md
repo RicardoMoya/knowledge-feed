@@ -15,3 +15,4 @@
 | Spec-Driven Development | https://thoughtworks.medium.com/spec-driven-development-d85995a81387 | 2026-05-28 |
 | Understanding AI Agent Architecture: A Complete Technical Breakdown | https://medium.com/write-a-catalyst/understanding-ai-agent-architecture-a-complete-technical-breakdown-6d62df9ff902 | 2026-05-28 |
 | AI Brain Fry: el coste oculto de supervisar agentes IA | https://www.linkedin.com/posts/rmarpozo_llevo-semanas-con-un-tipo-de-cansancio-que-activity-7449836897352454144-DCoa | 2026-05-28 |
+| IA vs. trabajadores: Nvidia admite que el costo de la computación supera el de los empleados | https://www.clarin.com/tecnologia/ia-vs-trabajadores-nvidia-admiten-costo-computacion-supera-creces-costos-empleados_0_YuWFBhJ6Rg.html | 2026-05-28 |
