@@ -11,3 +11,6 @@
 | AI Isn't Eating All Electricity & Emitting Massive Carbon | https://medium.com/the-future-is-electric/ai-isnt-eating-all-electricity-emitting-massive-carbon-18718ce2315d | 2026-05-27 |
 | Spec-Driven Development with Spec Kit and Claude Code | https://medium.com/vibecodingpub/spec-driven-development-with-spec-kit-and-claude-code-7e2957fd2c9b | 2026-05-27 |
 | Using Spec-Driven Development with Claude Code | https://heeki.medium.com/using-spec-driven-development-with-claude-code-4a1ebe5d9f29 | 2026-05-27 |
+| LLMs Predict Words. LCMs Predict Ideas. | https://pub.towardsai.net/llms-predict-words-lcms-predict-ideas-400705d191d4 | 2026-05-28 |
+| Spec-Driven Development | https://thoughtworks.medium.com/spec-driven-development-d85995a81387 | 2026-05-28 |
+| Understanding AI Agent Architecture: A Complete Technical Breakdown | https://medium.com/write-a-catalyst/understanding-ai-agent-architecture-a-complete-technical-breakdown-6d62df9ff902 | 2026-05-28 |
