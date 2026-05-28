@@ -111,7 +111,7 @@ El fichero `history.md` registra todos los artículos resumidos:
 
 | Título | URL | Fecha |
 |--------|-----|-------|
-| Ejemplo de artículo | https://medium.com/... | 2026-05-27 |
+| Ejemplo de artículo | [https://medium.com/...](https://medium.com/@richardmoya/top-papers-that-made-the-llm-era-possible-jarroba-com-7727170de13f) | 2026-05-27 |
 
 La skill consulta este fichero para evitar resumir el mismo artículo dos veces en un período de 15 días. Las URLs añadidas manualmente nunca se vuelven a resumir automáticamente salvo petición explícita.
 
