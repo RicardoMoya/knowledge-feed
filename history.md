@@ -16,3 +16,5 @@
 | Understanding AI Agent Architecture: A Complete Technical Breakdown | https://medium.com/write-a-catalyst/understanding-ai-agent-architecture-a-complete-technical-breakdown-6d62df9ff902 | 2026-05-28 |
 | AI Brain Fry: el coste oculto de supervisar agentes IA | https://www.linkedin.com/posts/rmarpozo_llevo-semanas-con-un-tipo-de-cansancio-que-activity-7449836897352454144-DCoa | 2026-05-28 |
 | IA vs. trabajadores: Nvidia admite que el costo de la computación supera el de los empleados | https://www.clarin.com/tecnologia/ia-vs-trabajadores-nvidia-admiten-costo-computacion-supera-creces-costos-empleados_0_YuWFBhJ6Rg.html | 2026-05-28 |
+| Microsoft Couldn't Afford Claude Code. That Should Terrify Every Engineering Team. | https://medium.com/@kanishks772/microsoft-couldnt-afford-claude-code-that-should-terrify-every-engineering-team-8d0cc9323883 | 2026-05-29 |
+| Build a Personal Knowledge Base With Claude Code | https://medium.com/@koriigami/build-a-personal-knowledge-base-with-claude-code-25d215b61822 | 2026-05-29 |
