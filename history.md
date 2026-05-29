@@ -18,3 +18,4 @@
 | IA vs. trabajadores: Nvidia admite que el costo de la computación supera el de los empleados | https://www.clarin.com/tecnologia/ia-vs-trabajadores-nvidia-admiten-costo-computacion-supera-creces-costos-empleados_0_YuWFBhJ6Rg.html | 2026-05-28 |
 | Microsoft Couldn't Afford Claude Code. That Should Terrify Every Engineering Team. | https://medium.com/@kanishks772/microsoft-couldnt-afford-claude-code-that-should-terrify-every-engineering-team-8d0cc9323883 | 2026-05-29 |
 | Build a Personal Knowledge Base With Claude Code | https://medium.com/@koriigami/build-a-personal-knowledge-base-with-claude-code-25d215b61822 | 2026-05-29 |
+| Karpathy's 4 CLAUDE.md Rules Cut Mistakes by 30%. I Added 4 More. | https://medium.com/tech-and-ai-guild/karpathys-4-claude-md-rules-cut-mistakes-by-30-i-added-4-more-to-further-cut-it-down-to-5-3f2f03cbc969 | 2026-05-29 |
