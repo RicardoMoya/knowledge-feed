@@ -19,3 +19,4 @@
 | Microsoft Couldn't Afford Claude Code. That Should Terrify Every Engineering Team. | https://medium.com/@kanishks772/microsoft-couldnt-afford-claude-code-that-should-terrify-every-engineering-team-8d0cc9323883 | 2026-05-29 |
 | Build a Personal Knowledge Base With Claude Code | https://medium.com/@koriigami/build-a-personal-knowledge-base-with-claude-code-25d215b61822 | 2026-05-29 |
 | Karpathy's 4 CLAUDE.md Rules Cut Mistakes by 30%. I Added 4 More. | https://medium.com/tech-and-ai-guild/karpathys-4-claude-md-rules-cut-mistakes-by-30-i-added-4-more-to-further-cut-it-down-to-5-3f2f03cbc969 | 2026-05-29 |
+| 5 Claude Code Agents You Can Build in less than 10 Minutes | https://medium.com/ai-in-plain-english/5-claude-code-agents-you-can-build-in-less-than-10-minutes-27c808ea4f6f | 2026-06-01 |
