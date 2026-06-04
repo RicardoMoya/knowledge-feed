@@ -41,14 +41,6 @@ Además, es posible pasar una o varias URLs de cualquier fuente (Medium, LinkedI
         └── YYYYMMDD_nombre-del-articulo.md
 ```
 
----
-
-## Categorías activas
-
-- ai-dev-tools
-- spec-driven-design
-- llms
-- green-ai
 
 ---
 
