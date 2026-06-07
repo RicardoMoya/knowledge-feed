@@ -21,3 +21,5 @@
 | Karpathy's 4 CLAUDE.md Rules Cut Mistakes by 30%. I Added 4 More. | https://medium.com/tech-and-ai-guild/karpathys-4-claude-md-rules-cut-mistakes-by-30-i-added-4-more-to-further-cut-it-down-to-5-3f2f03cbc969 | 2026-05-29 |
 | 5 Claude Code Agents You Can Build in less than 10 Minutes | https://medium.com/ai-in-plain-english/5-claude-code-agents-you-can-build-in-less-than-10-minutes-27c808ea4f6f | 2026-06-01 |
 | Anthropic Just Dropped Opus 4.8. Is This the End of OpenAI? | https://medium.com/data-science-collective/anthropic-just-dropped-opus-4-8-is-this-the-end-of-openai-d015046affcf | 2026-06-04 |
+| How to Build Claude Skills 2.0 Better than 99% of People | https://medium.com/data-science-collective/how-to-build-claude-skills-2-0-better-than-99-of-people-af4927dd5335 | 2026-06-07 |
+| Build an AI Second Brain (LLM Wiki Pattern) With Claude Code and Obsidian | https://medium.com/@tahirbalarabe2/build-an-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-fc41cc213d50 | 2026-06-07 |
