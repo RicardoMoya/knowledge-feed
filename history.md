@@ -28,3 +28,4 @@
 | 10 Claude Code Plugins You Must Install If You Are a Software Engineer | https://ikh4ever.medium.com/10-claude-code-plugins-you-must-install-if-you-are-a-software-engineer-434f4279b3d3 | 2026-06-08 |
 | $830 Billion Vanished — AI Found 500 Security Flaws | https://medium.com/ai-advances/830-billion-vanished-in-one-week-because-this-ai-found-500-security-flaws-nobody-else-could-4c088aef4eba | 2026-06-08 |
 | YOLO Is Dead. Meet RF-DETR — 60 mAP Real-Time Detection | https://medium.com/@aedelon/yolo-is-dead-meet-rf-detr-the-model-that-just-crushed-10-years-of-computer-vision-dominance-49ce17e64c83 | 2026-06-08 |
+| Anthropic supera a OpenAI: ranking empresas privadas de IA más valiosas | https://www.linkedin.com/posts/multiples-vc_after-a-massive-anthropic-fundraise-last-activity-7469640650947301377-Y4ZY/ | 2026-06-08 |
