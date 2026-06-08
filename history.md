@@ -24,3 +24,4 @@
 | How to Build Claude Skills 2.0 Better than 99% of People | https://medium.com/data-science-collective/how-to-build-claude-skills-2-0-better-than-99-of-people-af4927dd5335 | 2026-06-07 |
 | Build an AI Second Brain (LLM Wiki Pattern) With Claude Code and Obsidian | https://medium.com/@tahirbalarabe2/build-an-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-fc41cc213d50 | 2026-06-07 |
 | La IA no va a destruir empleo neto. Va a crear más empresas. | https://www.linkedin.com/posts/josemar%C3%ADa-lucas-cfa-30220a8_la-ia-no-va-a-destruir-empleo-neto-va-a-ugcPost-7469705026404392960-5A2n | 2026-06-08 |
+| Claude Code's 5-Layer Agent Development Kit | https://medium.com/gitconnected/claude-codes-5-layer-agent-development-kit-the-architecture-most-engineers-are-missing-2e670e5f85ec | 2026-06-08 |
