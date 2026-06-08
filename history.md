@@ -25,3 +25,6 @@
 | Build an AI Second Brain (LLM Wiki Pattern) With Claude Code and Obsidian | https://medium.com/@tahirbalarabe2/build-an-ai-second-brain-llm-wiki-pattern-with-claude-code-and-obsidian-fc41cc213d50 | 2026-06-07 |
 | La IA no va a destruir empleo neto. Va a crear más empresas. | https://www.linkedin.com/posts/josemar%C3%ADa-lucas-cfa-30220a8_la-ia-no-va-a-destruir-empleo-neto-va-a-ugcPost-7469705026404392960-5A2n | 2026-06-08 |
 | Claude Code's 5-Layer Agent Development Kit | https://medium.com/gitconnected/claude-codes-5-layer-agent-development-kit-the-architecture-most-engineers-are-missing-2e670e5f85ec | 2026-06-08 |
+| 10 Claude Code Plugins You Must Install If You Are a Software Engineer | https://ikh4ever.medium.com/10-claude-code-plugins-you-must-install-if-you-are-a-software-engineer-434f4279b3d3 | 2026-06-08 |
+| $830 Billion Vanished — AI Found 500 Security Flaws | https://medium.com/ai-advances/830-billion-vanished-in-one-week-because-this-ai-found-500-security-flaws-nobody-else-could-4c088aef4eba | 2026-06-08 |
+| YOLO Is Dead. Meet RF-DETR — 60 mAP Real-Time Detection | https://medium.com/@aedelon/yolo-is-dead-meet-rf-detr-the-model-that-just-crushed-10-years-of-computer-vision-dominance-49ce17e64c83 | 2026-06-08 |
